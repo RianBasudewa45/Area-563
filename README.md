@@ -23,4 +23,4 @@ Ram:4GB
 Phone:4GB
 ### Support or Contact
 
-Wan't to ask me something? feel free to join on my [discord server](https://discord.gg/XMV7szVwHA) i will waiting for you guys see you!
+Want to ask me something? feel free to join on my [discord server](https://discord.gg/XMV7szVwHA) i will waiting for you guys see you!
