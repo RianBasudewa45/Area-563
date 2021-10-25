@@ -8,11 +8,9 @@ Area 563 is one of my project that i made in [Minecraft Bedrock Edition](https:/
 
 
 
-[Link](url) and ![Image](src)
 ```![thumbnail](https://user-images.githubusercontent.com/93080889/138623909-dac75e93-438f-40a4-a050-30da6cd21732.png)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ![thumbnail again](https://user-images.githubusercontent.com/93080889/138623928-8a004a97-bf5b-486c-aea7-835938599cd7.png)
 
 ### Jekyll Themes
