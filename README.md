@@ -18,10 +18,9 @@ Area 563 is one of my project that i made in [Minecraft Bedrock Edition](https:/
 System Requirements:
 
 PC/Laptop:
-Ram:2GB
-Graphic Card:No Need
+Ram:4GB
 
-Phone:3GB
+Phone:4GB
 ### Support or Contact
 
 Wan't to ask me something? feel free to join on my [discord server](https://discord.gg/XMV7szVwHA) i will waiting for you guys see you!
