@@ -13,10 +13,15 @@ Area 563 is one of my project that i made in [Minecraft Bedrock Edition](https:/
 
 ![thumbnail again](https://user-images.githubusercontent.com/93080889/138623928-8a004a97-bf5b-486c-aea7-835938599cd7.png)
 
-### Jekyll Themes
+### System Requirements
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RianBasudewa45/Area-563/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+System Requirements:
 
+PC/Laptop:
+Ram:2GB
+Graphic Card:No Need
+
+Phone:3GB
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Wan't to ask me something? feel free to join on my [discord server](https://discord.gg/XMV7szVwHA) i will waiting for you guys see you!
