@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Area 563
 
-You can use the [editor on GitHub](https://github.com/RianBasudewa45/Area-563/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! 
+
+Area 563 is one of my project that i made in [Minecraft Bedrock Edition](https://www.minecraft.net/en-us) this map is my first big map and less lag!!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
