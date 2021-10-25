@@ -8,8 +8,6 @@ Area 563 is one of my project that i made in [Minecraft Bedrock Edition](https:/
 
 
 
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```![thumbnail](https://user-images.githubusercontent.com/93080889/138623909-dac75e93-438f-40a4-a050-30da6cd21732.png)
 
