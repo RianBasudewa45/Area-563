@@ -24,6 +24,14 @@ Phone:4GB
 
 ### Downloads:
 
+Coming Soon
+
+### All Addon Used In This Map
+
+[SCP-Dystopia](https://mcpedl.com/scp-dystopia-addon/)
+
+[Connected-Glass](https://mcpedl.com/connected-glass-addon/)
+
 ### Support or Contact:
 
 Want to ask me something? feel free to join on my [discord server](https://discord.gg/XMV7szVwHA) i will waiting for you guys see you!
